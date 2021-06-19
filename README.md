@@ -6,3 +6,7 @@ Jupyter Notebook used for finetuning a GPT2 model on a dataset of inspirational/
 - The model was trained for **50 epochs** on about **100,000 quotes**.
 - Quotes Dataset: https://github.com/ShivaliGoel/Quotes-500K  
 - Trained Model: https://github.com/Quotify-Bot/quotify-backend/releases/tag/v1.1
+
+
+## Inference
+The trained model can be tried out from the model repository on the Huggigface website: https://huggingface.co/noelmathewisaac/inspirational-quotes-distilgpt2.
